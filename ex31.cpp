@@ -5,7 +5,6 @@ using namespace std;
 
 int main() {
     printf("380059 099829\n");
-    printf("Hello World\n");
     printf("hello William\n");
   int myAge = 15;
   int myheightm = 1;
