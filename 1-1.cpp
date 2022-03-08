@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
     printf("hello William\n");
-  int myAge = 15;
+  int myAge = 14;
   int myheightm = 1;
   int myheightcm = 67;
   int myweight = 71;
