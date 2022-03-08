@@ -8,7 +8,7 @@ int main() {
   int myAge = 15;
   int myheightm = 1;
   int myheightcm = 67;
-  int myweight = 73;
+  int myweight = 71;
   cout << "I am " << myAge << " years old\n";
   cout << "My height is " << myheightm << " m " << myheightcm << "cm\n";
   cout << "My weight is " << myweight << " kg\n";
