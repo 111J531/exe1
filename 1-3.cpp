@@ -7,6 +7,7 @@ using namespace std;
 
 int main(void)
 {
+     printf ("qwertyuiopasdfghjklzxcvbnm QWERTYUIOPASDFGHJKLZXCVBNM 0123456789 !@#$%^&*()~-+=\<>?/")
      printf ("Characters: %c %c %c \n", 'a', 122 , 57);
    printf ("Decimals: %d %ld\n", 1999, 1220000L);
    printf ("Preceding with blanks: %10d \n", 1999);
